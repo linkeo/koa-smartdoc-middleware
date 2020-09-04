@@ -41,7 +41,7 @@
     "lodash.escaperegexp": "^4.1.2",
     "lodash.maxby": "^4.6.0",
     "lodash.throttle": "^4.1.1",
-    "marked": "^0.6.3",
+    "marked": "^0.7.0",
     "mermaid": "^8.4.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^1.19.1",

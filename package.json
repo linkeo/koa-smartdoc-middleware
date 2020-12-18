@@ -30,7 +30,7 @@
     "@vue/component-compiler-utils": "^2.6.0",
     "d3-ease": "^1.0.6",
     "d3-timer": "^1.0.10",
-    "dompurify": "^1.0.11",
+    "dompurify": "^2.0.17",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.18.2",
